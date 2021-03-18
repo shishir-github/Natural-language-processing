@@ -1,0 +1,6 @@
+# Natural-language-processing
+This repository includes the ML models for NLP tasks ---Spam detection using Keras API, Spam detention using RF XGboot,  Sentiment classification using Logistic regression,  Topic Modelling using LDA
+
+If you re unable to load the .ipnyb file please follow below steps:
+1) Open "https://nbviewer.jupyter.org/"
+2) Paste the link to your notebook, (e.g. "https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/blob/master/index.ipynb") 
